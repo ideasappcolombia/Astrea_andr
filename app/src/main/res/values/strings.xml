@@ -1,0 +1,233 @@
+<resources>
+    <string name="app_name">Astrea</string>
+
+    <string name="conocimiento">Astrea\nConocimiento para todos</string>
+    <string name="ingresa">Ingresa los siguientes datos para obtener una experiencia más personalizada.</string>
+    <string name="nombre">Nombres</string>
+    <string name="apellido">Apellidos</string>
+    <string name="edad">Edad</string>
+    <string name="bienvenida">Bienvenido @nombre</string>
+    <string name="textobienvenida">Antes de comenzar, debes responder unas preguntas
+        para que la aplicación se ajuste a tus necesidades y puedas aprender fácilmente
+        los conceptos y nociones que vamos a explicar.</string>
+    <string name="action_settings">Astrea</string>
+
+
+
+
+    <string name="iniciar">Iniciar</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="continuar">Continuar</string>
+    <string name="comenzar">Comenzar</string>
+    <string name="menu2">Has completado la configuración de Astrea, ahora puedes:</string>
+    <string name="volver_configurar">Volver a configurar</string>
+    <string name="inicio_clases">Inicio clases</string>
+    <string name="configuracion">Configuración</string>
+    <string name="acercade">Acerca de</string>
+
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="ecero">cero</string>
+    <string name="euno">uno</string>
+    <string name="edos">dos</string>
+    <string name="etres">tres</string>
+    <string name="ecuatro">cuatro</string>
+    <string name="ecinco">cinco</string>
+    <string name="eseis">seis</string>
+    <string name="esiete">siete</string>
+    <string name="eocho">ocho</string>
+    <string name="enueve">nueve</string>
+    <string name="ediez">diez</string>
+    <string name="eonce">once</string>
+    <string name="edoce">doce</string>
+    <string name="etrece">trece</string>
+    <string name="ecatorce">catorce</string>
+    <string name="equince">quince</string>
+    <string name="edieciseis">dieciseis</string>
+    <string name="ediecisiete">diecisiete</string>
+    <string name="edieciocho">dieciocho</string>
+    <string name="ediecinueve">diecinueve</string>
+    <string name="eveinte">veinte</string>
+    <string name="eveintiuno">veintiuno</string>
+    <string name="eveintidos">veintidos</string>
+    <string name="eveintitres">veintitres</string>
+    <string name="eveinticuatro">veinticuatro</string>
+    <string name="eveinticinco">veinticinco</string>
+    <string name="eveintiseis">veintiseis</string>
+    <string name="eveintisiete">veintisiete</string>
+    <string name="eveintiocho">veintiocho</string>
+    <string name="eveintinueve">veintinueve</string>
+    <string name="etreinta">treinta</string>
+    <string name="etreintayuno">treinta y uno</string>
+    <string name="etreintaydos">treinta y dos</string>
+    <string name="etreintaytres">treinta y tres</string>
+    <string name="etreintaycuatro">treinta y cuatro</string>
+    <string name="etreintaycinco">treinta y cinco</string>
+    <string name="etreintayseis">treinta y seis</string>
+    <string name="etreintaysiete">treinta y siete</string>
+    <string name="etreintayocho">treinta y ocho</string>
+    <string name="etreintaynueve">treinta y nueve</string>
+    <string name="ecuarenta">cuarenta</string>
+    <string name="ecuarentayuno">cuarenta y uno</string>
+    <string name="ecuarentaydos">cuarenta y dos</string>
+    <string name="ecuarentaytres">cuarenta y tres</string>
+    <string name="ecuarentaycuatro">cuarenta y cuatro</string>
+    <string name="ecuarentaycinco">cuarenta y cinco</string>
+    <string name="ecuarentayseis">cuarenta y seis</string>
+    <string name="ecuarentaysiete">cuarenta y siete</string>
+    <string name="ecuarentayocho">cuarenta y ocho</string>
+    <string name="ecuarentaynueve">cuarenta y nueve</string>
+    <string name="ecincuenta">cincuenta</string>
+    <string name="cero">0</string>
+    <string name="uno">1</string>
+    <string name="dos">2</string>
+    <string name="tres">3</string>
+    <string name="cuatro">4</string>
+    <string name="cinco">5</string>
+    <string name="seis">6</string>
+    <string name="siete">7</string>
+    <string name="ocho">8</string>
+    <string name="nueve">9</string>
+    <string name="diez">10</string>
+    <string name="once">11</string>
+    <string name="doce">12</string>
+    <string name="trece">13</string>
+    <string name="catorce">14</string>
+    <string name="quince">15</string>
+    <string name="dieciseis">16</string>
+    <string name="diecisiete">17</string>
+    <string name="dieciocho">18</string>
+    <string name="diecinueve">19</string>
+    <string name="veinte">20</string>
+    <string name="veintiuno">21</string>
+    <string name="veintidos">22</string>
+    <string name="veintitres">23</string>
+    <string name="veinticuatro">24</string>
+    <string name="veinticinco">25</string>
+    <string name="veintiseis">26</string>
+    <string name="veintisiete">27</string>
+    <string name="veintiocho">28</string>
+    <string name="veintinueve">29</string>
+    <string name="treinta">30</string>
+    <string name="treintayuno">31</string>
+    <string name="treintaydos">32</string>
+    <string name="treintaytres">33</string>
+    <string name="treintaycuatro">34</string>
+    <string name="treintaycinco">35</string>
+    <string name="treintayseis">36</string>
+    <string name="treintaysiete">37</string>
+    <string name="treintayocho">38</string>
+    <string name="treintaynueve">39</string>
+    <string name="cuarenta">40</string>
+    <string name="cuarentayuno">41</string>
+    <string name="cuarentaydos">42</string>
+    <string name="cuarentaytres">43</string>
+    <string name="cuarentaycuatro">44</string>
+    <string name="cuarentaycinco">45</string>
+    <string name="cuarentayseis">46</string>
+    <string name="cuarentaysiete">47</string>
+    <string name="cuarentayocho">48</string>
+    <string name="cuarentaynueve">49</string>
+    <string name="cincuenta">50</string>
+    <string name="conteo">Conteo</string>
+    <string name="sumasnivel1">Sumas nivel 1</string>
+    <string name="restasnivel1">Restas nivel 1</string>
+    <string name="multiplicacionnivel1">Multiplicación nivel 1</string>
+    <string name="divisionnivel1">División nivel 1</string>
+    <string name="sumasnivel2">Sumas nivel 2</string>
+    <string name="restasnivel2">Restas nivel 2</string>
+    <string name="multiplicacionnivel2">Multiplicación nivel 2</string>
+    <string name="divisionnivel2">División nivel 2</string>
+    <string name="identificacion">Identificación de números</string>
+    <string name="volver">Volver</string>
+    <string name="sumas">Sumas</string>
+    <string name="pedro">Pedro</string>
+    <string name="mama">Mamá</string>
+    <string name="problemasumas1">Problemas de suma 1</string>
+    <string name="problemasumas2">Problemas de suma 2</string>
+    <string name="problemasumas3">Problemas de suma 3</string>
+    <string name="problemasumas4">Problemas de suma 4</string>
+    <string name="problemasumas5">Problemas de suma 5</string>
+    <string name="problemarestas1">Problemas de restas 1</string>
+    <string name="problemarestas2">Problemas de restas 2</string>
+    <string name="problemarestas3">Problemas de restas 3</string>
+    <string name="problemarestas4">Problemas de restas 4</string>
+    <string name="problemarestas5">Problemas de restas 5</string>
+    <string name="problemamultiplicacion1">Problemas de multiplicación 1</string>
+    <string name="problemamultiplicacion2">Problemas de multiplicación 2</string>
+    <string name="problemamultiplicacion3">Problemas de multiplicación 3</string>
+    <string name="problemamultiplicacion4">Problemas de multiplicación 4</string>
+    <string name="problemamultiplicacion5">Problemas de multiplicación 5</string>
+    <string name="problemadivision1">Problemas de división 1</string>
+    <string name="problemadivision2">Problemas de división 2</string>
+    <string name="problemadivision3">Problemas de división 3</string>
+    <string name="problemadivision4">Problemas de división 4</string>
+    <string name="problemadivision5">Problemas de división 5</string>
+    <string name="respuesta1problema3">7600</string>
+    <string name="respuesta2problema3">7900</string>
+    <string name="respuesta3problema3">7500</string>
+    <string name="respuesta1problema5">64</string>
+    <string name="respuesta2problema5">59</string>
+    <string name="respuesta3problema5">61</string>
+    <string name="noreconoce">No lo reconozco</string>
+    <string name="nosecontar">Aún no se contar</string>
+    <string name="comprobar">Comprobar</string>
+    <string name="sieteysobrandos">Siete y sobran una</string>
+    <string name="seisysobrauno">Seis y sobra una</string>
+    <string name="Ochoysobrandos">Ocho y sobran dos</string>
+    <string name="ubicacionh">Usa el botón iniciar y ayuda al conejo a encontrar su zanahoria</string>
+    <string name="preguntaubicacionh">¿Dónde esta la zanahoria?</string>
+    <string name="respuesta1ubicacionh">Encima del conejo</string>
+    <string name="respuesta2ubicacionh">Debajo del conejo</string>
+    <string name="respuesta3ubicacionh">A la Izquierda del conejo</string>
+    <string name="respuesta4ubicacionh">A la Derecha del conejo</string>
+    <string name="ubicaciont">Usa el botón iniciar y responde</string>
+    <string name="preguntaubicaciont">¿Hacia dónde señala la flecha?</string>
+    <string name="respuesta1ubicaciont">Arriba</string>
+    <string name="respuesta2ubicaciont">Abajo</string>
+    <string name="respuesta3ubicaciont">Derecha</string>
+    <string name="respuesta4ubicaciont">Izquierda</string>
+    <string name="felicitacion">FELICITACIONES %s Contestaste adecuadamente todos los ejercicios. Continuemos con tu aprendizaje.</string>
+    <string name="preguntas">%s, Es necesario que respondas algunas preguntas para configurar todo el aplicativo.</string>
+    <string name="preguntas_titulo">Preguntas De Configuración</string>
+    <string name="introduccionoperaciones">%s, A partir de ahora iniciaremos una serie de ejercicios que te ayudarán a practicar las operaciones básicas de las matemáticas. Comencemos con tu aprendizaje.</string>
+    <string name="introduccionubicacion">%s, A partir de ahora iniciaremos una serie de ejercicios que te ayudarán a practicar tu ubicación espacial. Comencemos con tu aprendizaje.</string>
+    <string name="problemas">¿Cuál de las siguientes es la respuesta correcta?</string>
+    <string name="botonsuma">Utilizando los botones, apoyate para realizar las siguientes sumas</string>
+    <string name="botonresta">Utilizando los botones, apoyate para realizar las siguientes restas</string>
+    <string name="botonmultiplicacion">Utilizando los botones, apoyate para realizar las siguientes multiplicaciones</string>
+    <string name="botondivision">Utilizando los botones, apoyate para realizar las siguientes divisiones</string>
+    <string name="pregunta1_titulo">Pregunta 1</string>
+    <string name="pregunta2_titulo">Pregunta 2</string>
+    <string name="pregunta3_titulo">Pregunta 3</string>
+    <string name="pregunta4_titulo">Pregunta 4</string>
+    <string name="pregunta5_titulo">Pregunta 5</string>
+    <string name="pregunta1">¿Consideras que aprendes mejor cuando estás haciendo varias actividades al tiempo?</string>
+    <string name="pregunta2">¿Se te dificulta estar atento en alguna explicación?</string>
+    <string name="pregunta3">¿Tus profesores te enseñan temas diferentes que al resto de tus compañeros?</string>
+    <string name="pregunta4">¿Te parece complejo estar al pendiente de una sola actividad al tiempo?</string>
+    <string name="pregunta5">¿Debes recibir apoyo extra por parte de tus profesores siempre que practicas un tema nuevo?</string>
+    <string name="preguntasumaA">¿Cuantos elementos tiene el conjunto A?</string>
+    <string name="preguntasumaB">¿Cuantos elementos tiene el conjunto B?</string>
+    <string name="preguntasuma2">¿Qué número es el que aparece en pantalla?</string>
+    <string name="mil">1000</string>
+    <string name="dosmil">2000</string>
+    <string name="cuatromil">4000</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="acercadetexto">Astrea es una aplicación pensada para ayudar a personas con necesidades educativas especiales a adquirir conocimientos básicos en algunas áreas del conocimiento.\n\n
+          Esta aplicación esta liberada bajo la licencia GPL Versión 3.0, por lo tanto su uso, modificación, redistribución están autorizados, siempre y cuando se cumplan con los lineamientos de esta licencia.\n\n
+        AUTOR: Ricardo León Arango Betancur.\n
+        APOYO PEDAGÓGICO: Isis Miosotis Álvarez.\n
+        MUSICALIZACIÓN: Mónica Maria Arenas.\n
+        AGRADECIMIENTOS:\n
+        - Adriana Carmona Alvarez.\n
+        - Freddy Mendez Ortiz.\n
+        - Corporación Educativa Alcaravanes.\n\n
+        A mis estudiantes, sin ustedes esto no hubiese sido posible.</string>
+    <string name="ayudatexto">Al comenzar la aplicación, encontrarás una serie de preguntas que le permitirán configurar el entorno gráfico y las actividades que se encuentran en la app.\n\n
+          Al comenzar, se realizará una actividad de conteo para verificar hasta que número puede contar, lo que hará que las actividades nunca superaren el tope identificado.\n\n
+          La aplicación consta de actividades para personas con TDAH y algún compromiso cognitivo. Con las preguntas de configuración respondidas al comenzar, el entorno se configurará de tal
+        manera que las actividades para ambas poblaciones estén dentro de sus niveles conceptuales.\n\n
+          Señor usuario, Si tiene alguna pregunta, sugerencia o mejora por proponer, no dude en escribir al correo:
+        ideasappcolombia@gmail.com  o Ingresar al sitio web\n http://www.ideasappcolombia.com</string>
+</resources>
